@@ -1,3 +1,3 @@
 # About me 🧑‍🦰
 
-- 🌱 I am learning web technology.
+- 🌱 I am currently learning web technology.
